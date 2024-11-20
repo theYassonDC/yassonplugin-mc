@@ -2,5 +2,6 @@
 Este es mi  primer plugin usando java para experimentar y para usarlo en un servidor de minecraft con amigos :D
 
 ## Comandos
-**y/help**
+**y/yhelp**
+
 Podes ver la lista de todos los comandos
