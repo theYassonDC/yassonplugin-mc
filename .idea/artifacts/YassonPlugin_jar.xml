@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="YassonPlugin:jar">
+    <output-path>$PROJECT_DIR$/../Plugins mc</output-path>
+    <root id="archive" name="YassonPlugin.jar">
+      <element id="module-output" name="YassonPlugin" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,39 @@
+main: gg.yasson.YassonPlugin
+version: 1.0.2
+name: YassonPlugin
+author: YassonC
+api-version: 1.13
+
+commands:
+  yhelp:
+    description: Command yasson plugin
+    aliases:
+      - yh
+  ysethome:
+    description: Set location home command
+    aliases:
+      - ysthome
+      - ysth
+  yhome:
+    description: Home locations
+    aliases:
+      - yh
+  yhomes:
+    description: Homes locations
+    aliases:
+      - yhs
+  ypoints:
+    description: View Points aviable
+    aliases:
+      - ypts
+      - yp
+  ypoint:
+    description: Managet points user
+    aliases:
+      - yp
+  ydelhome:
+    description: Remove home
+    aliases:
+      - removehome
+      - rmh
+      - dh
